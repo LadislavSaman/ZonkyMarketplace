@@ -1,0 +1,46 @@
+[
+  {
+    "id": 457161,
+    "url": "https://app.zonky.cz/loan/457161",
+    "name": "Nový sporák",
+    "story": "zonky427015",
+    "purpose": "4",
+    "photos": [
+      {
+        "name": "electronics-1-5f1fa98ebab8748f4fd78bbfacf305c8.jpg",
+        "url": "/loans/457161/photos/55976"
+      }
+    ],
+    "userId": 427015,
+    "nickName": "zonky427015",
+    "termInMonths": 72,
+    "interestRate": 0.069900,
+    "revenueRate": 0.054900,
+    "annuity": 522.00,
+    "premium": null,
+    "rating": "AAE",
+    "topped": false,
+    "amount": 30000.00,
+    "remainingInvestment": 16700.00,
+    "investmentRate": 0.44333333333333336,
+    "covered": false,
+    "reservedAmount": 4000.00,
+    "zonkyPlusAmount": 1500.00,
+    "datePublished": "2019-04-26T19:24:43.174+02:00",
+    "published": true,
+    "deadline": "2019-04-28T19:23:03.885+02:00",
+    "myOtherInvestments": null,
+    "borrowerRelatedInvestmentInfo": null,
+    "investmentsCount": 3,
+    "questionsCount": 0,
+    "region": "10",
+    "mainIncomeType": "EMPLOYMENT",
+    "questionsAllowed": false,
+    "activeLoansCount": 0,
+    "insuranceActive": false,
+    "insuranceHistory": [],
+    "fastcash": true,
+    "multicash": true,
+    "annuityWithInsurance": 522.00
+  }
+]
